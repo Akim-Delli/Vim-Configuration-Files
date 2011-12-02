@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='C:/Documents and Settings/Akim.MSSM-HADRIL01BI'
+let g:netrw_dirhist_2='C:/Documents and Settings/Akim.MSSM-HADRIL01BI/My Documents'
+let g:netrw_dirhist_3='C:/Documents and Settings/Akim.MSSM-HADRIL01BI/My Documents/My Meetings'
+let g:netrw_dirhist_4='C:/Documents and Settings/Akim.MSSM-HADRIL01BI/My Documents'
+let g:netrw_dirhist_5='C:/Documents and Settings/Akim.MSSM-HADRIL01BI'
+let g:netrw_dirhist_6='C:/Documents and Settings/Akim.MSSM-HADRIL01BI/Perl'
